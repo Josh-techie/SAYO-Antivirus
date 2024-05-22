@@ -5,5 +5,8 @@ This repository contains the development files for SAYO-Antivirus, a security pr
 # Architecture SAYO-Antivirus
 
 <p align="center">
-<img src="/images/Architecture-SAYO.svg" alt="Img-Architecture">
+<img src="/images/Architecture-SAYO.png" alt="Img-Architecture">
+
+> Architecrute of the SAYO Antivirus 🔐
+
 </p>
